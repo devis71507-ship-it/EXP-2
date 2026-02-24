@@ -47,17 +47,47 @@ Procedure for Load test:
 6.   After tabulating all the readings the load is brought to its initial position.
 7.   The motor is switched off by using DPST switch 1 after bringing all the rheostats to initial position.
 
-Tabulation for Open Circuit Test
+Tabulation for Open Circuit Test:
+
+<img width="1213" height="1599" alt="image" src="https://github.com/user-attachments/assets/69822de9-f5ae-40b3-92ff-9a6be7d5ec59" />
+
 
 Tabulation for Load Test:
 
+<img width="1020" height="1600" alt="image" src="https://github.com/user-attachments/assets/100f2b91-97b4-4329-b59a-d25dc73acd2d" />
+
+
 Model graph:
+
+Open circuit:
+
+<img width="1245" height="1600" alt="image" src="https://github.com/user-attachments/assets/4615c98c-1e06-46d3-b5df-b74c35ae39c5" />
+
+<img width="988" height="1396" alt="image" src="https://github.com/user-attachments/assets/66f7a395-34ba-4064-a501-0a9fa76b4c7a" />
+
+load circuit:
+
+<img width="1063" height="1600" alt="image" src="https://github.com/user-attachments/assets/8f767c9d-aa93-4fdc-89fc-36d80dbbf0f2" />
+
+<img width="1016" height="1397" alt="image" src="https://github.com/user-attachments/assets/bbb022c9-a30e-43d7-b83e-e165ffbece92" />
+
+
 Calculation: 
 
-Open circuit characteristics
+Open circuit characteristics:
+
+<img width="1063" height="1600" alt="image" src="https://github.com/user-attachments/assets/8491731f-ad9a-4d5d-9ba1-775ed60b5194" />
+
+<img width="692" height="556" alt="image" src="https://github.com/user-attachments/assets/8cf12d76-4308-4ebf-9572-aba118559187" />
 
   
 Load Characteristics:
- 
+
+<img width="1099" height="1600" alt="image" src="https://github.com/user-attachments/assets/b68149d6-c2d1-4773-adb3-f97bb9a4878b" />
+
+ <img width="1697" height="778" alt="image" src="https://github.com/user-attachments/assets/38945915-8050-4d3b-8a31-3e53f61b8b2c" />
+
+ <img width="1657" height="530" alt="image" src="https://github.com/user-attachments/assets/e95e6d6c-8f96-4b40-9a04-b443288c0a2b" />
+
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
